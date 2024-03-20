@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 The aws classes have started
 Git classes have been started
 hello 
+=======
+The git classes were started
+>>>>>>> main
